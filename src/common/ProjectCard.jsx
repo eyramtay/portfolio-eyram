@@ -1,4 +1,4 @@
-import React from "react";
+/* eslint-disable react/prop-types */
 
 function ProjectCard({ src, link, h3, p }) {
   return (
